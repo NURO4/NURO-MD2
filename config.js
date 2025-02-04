@@ -6,7 +6,7 @@ function convertToBool(text, fault = 'true') {
 }
 module.exports = {
 ///=================ඕවා එඩිට් කරද්දි කිසිම දෙයක් වැරදියට දමන්න එපා !!MAIN-CONFIG=================================
-SESSION_ID: process.env.SESSION_ID || "GYB3AS6T#nZ_n7iogv1l-pvdUDI5Y5NCkepfa7Cu4Gc8kFZUqbeQ",  // ADD Your Session Id 
+SESSION_ID: process.env.SESSION_ID || "onUXSTbQ#dIP3p8elIg7TNzAwIUxDR-Ot8XrDYm-fIQ-LD4yYd0E",  // ADD Your Session Id 
 MONGODB: process.env.MONGODB || "mongodb://mongo:iBSPwTKxbBZhLsasligcDUWyokRfXVjT@monorail.proxy.rlwy.net:22261",
 MODE: process.env.MODE || "privet",  // Add Your Bot Mode (groups/privet/public)
 PREFIX: process.env.PREFIX || ".",   // Add Your Custom Prefix 
