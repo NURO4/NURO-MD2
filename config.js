@@ -10,7 +10,7 @@ SESSION_ID: process.env.SESSION_ID || "GYB3AS6T#nZ_n7iogv1l-pvdUDI5Y5NCkepfa7Cu4
 MONGODB: process.env.MONGODB || "mongodb+srv://SithumKalhara:97531@cluster0.iva7dbo.mongodb.net/?retryWrites=true&w=majority",
 MODE: process.env.MODE || "privet",  // Add Your Bot Mode (groups/privet/public)
 PREFIX: process.env.PREFIX || ".",   // Add Your Custom Prefix 
-OWNER_REACT: process.env.OWNER_REACT || "true", //add true or false
+OWNER_REACT: process.env.OWNER_REACT || "false", //add true or false
 BOT_NAME: process.env.BOT_NAME || "nuro",
 ///=================ඕවා එඩිට් කරද්දි කිසිම දෙයක් වැරදියට දමන්න එපා !!CUSTOM-SETTING-CONFIG=====================
 AUTO_VOICE: process.env.AUTO_VOICE || "true", //add true or false
